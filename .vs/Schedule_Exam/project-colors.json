@@ -5,7 +5,12 @@
       "ProjectGuid": "8560c12d-b100-4a6f-a231-48410a53a253",
       "DisplayName": "Schedule_Exam",
       "ColorIndex": 0
+    },
+    "43eac07c-dbc9-456d-83de-dc0848a8d86b": {
+      "ProjectGuid": "43eac07c-dbc9-456d-83de-dc0848a8d86b",
+      "DisplayName": "Project",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

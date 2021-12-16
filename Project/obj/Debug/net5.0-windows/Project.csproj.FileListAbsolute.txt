@@ -60,4 +60,6 @@ C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\bin\Debug\
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\obj\Debug\net5.0-windows\Project.csproj.CopyComplete
-C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\obj\Debug\net5.0-windows\Project.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\obj\Debug\net5.0-windows\Project.Form1.resources
+C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\obj\Debug\net5.0-windows\Project.csproj.GenerateResource.cache
+C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Project\bin\Debug\net5.0-windows\jsconfig1.json

@@ -1,4 +1,3 @@
-C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.csproj.AssemblyReference.cache
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.Form1.resources
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.csproj.GenerateResource.cache
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.GeneratedMSBuildEditorConfig.editorconfig
@@ -63,3 +62,5 @@ C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\ref\Schedule_Exam.dll
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.pdb
 C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.genruntimeconfig.cache
+C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\obj\Debug\net5.0-windows\Schedule_Exam.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\semester_5\PRN211\code\Schedule_Exam\Schedule_Exam\bin\Debug\net5.0-windows\jsconfig1.json

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyConStr": "server = YANKEE; database = AP2; uid = sa; password = dang050401"
+  }
+}

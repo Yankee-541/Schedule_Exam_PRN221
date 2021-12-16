@@ -14,6 +14,12 @@ namespace Schedule_Exam.Models
             StudentCourses = new HashSet<StudentCourse>();
         }
 
+        public Course(int courseId, string courseDescription)
+        {
+            CourseId = courseId;
+            CourseDescription = courseDescription;
+        }
+
         public int CourseId { get; set; }
         public string CourseCode { get; set; }
         public string CourseDescription { get; set; }
